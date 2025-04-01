@@ -1,6 +1,5 @@
-# 👋 Welcome
-I'm Michal.
+# Michal Zamberg Elad
 
-## 🌱 About ME
-I'm a PhD student at Michal Ramot's Lab, researching Social Cognition.
-
+## 🧡 About Me
+My name is Michal, I'm a PhD student.  
+I live in Tel Aviv.
